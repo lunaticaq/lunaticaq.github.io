@@ -1,2 +1,13 @@
-Prendiamo delle immagini di un luogo (ad esempio: Las Vegas) prima e dopo l'urbanizzazione e industrializzazione, poi in anni diversi dopo la presenza umana (es. un immagine degli anni '70, una degli anni '80, fino ai nostri anni)
-per vedere quanto ha impattato e come sull'ambiente circostante la mano dell'uomo prolungata nel tempo.
+# Analisi dell'Impatto Umano nel Tempo
+
+Studio dell'urbanizzazione attraverso immagini storiche, prendendo come esempio Las Vegas:
+
+## Obiettivo
+Analizzare l'impatto ambientale dello sviluppo urbano attraverso una sequenza temporale di immagini:
+- Prima dell'urbanizzazione
+- Durante le fasi iniziali di sviluppo
+- Anni '70
+- Anni '80
+- Periodo attuale
+
+Questo confronto permetterà di valutare visivamente l'influenza dell'attività umana sull'ambiente nel corso dei decenni.
