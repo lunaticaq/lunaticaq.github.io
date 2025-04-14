@@ -6,8 +6,6 @@ Studio dell'urbanizzazione attraverso immagini storiche, prendendo come esempio 
 Analizzare l'impatto ambientale dello sviluppo urbano attraverso una sequenza temporale di immagini:
 - Prima dell'urbanizzazione
 - Durante le fasi iniziali di sviluppo
-- Anni '70
-- Anni '80
-- Periodo attuale
+- Dagli anni '70' fino al giorno d'oggi
 
 Questo confronto permetterà di valutare visivamente l'influenza dell'attività umana sull'ambiente nel corso dei decenni.
