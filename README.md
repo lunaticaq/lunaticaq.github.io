@@ -1,6 +1,6 @@
 # Analisi dell'Impatto Umano nel Tempo
 
-Studio dell'urbanizzazione attraverso immagini storiche, prendendo come esempio vari luoghi
+Studio dell'urbanizzazione attraverso immagini storiche, prendendo come esempio vari luoghi.
 Esempi di studi:
 Deforestazione in Amazzonia (1970 → oggi)
 Crescita urbana di Dubai (1990 → oggi)
