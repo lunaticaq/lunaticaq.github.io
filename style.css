@@ -1,0 +1,38 @@
+* {
+    text-align: center;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+hr {
+    border-color: lightgray;
+}
+
+p {
+    text-align: justify;
+    margin: 0 2em;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    padding: 1em 0;
+}
+
+.top-section {
+    background-color: royalblue;
+    color: white;
+    padding: 10px;
+}
+
+.mid-section {
+    background-color: #49EB5A;
+    padding: 10px;
+}
+
+.bot-section {
+    margin: 0 0 2em 0;
+}
