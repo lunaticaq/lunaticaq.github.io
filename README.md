@@ -3,7 +3,7 @@
 ### Studio dell'Urbanizzazione attraverso Immagini Storiche
 
 **Caso di studio:**  
- Deforestazione in Amazzonia (1970 → oggi)
+ Deforestazione in Amazzonia (1986 → 2010)
 
 ## Obiettivo
 
