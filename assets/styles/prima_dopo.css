@@ -56,22 +56,41 @@ p {
 .mid-section {
   background-color: #fff;
   padding: 3rem 1rem;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 }
 
-/* Bottom section */
-.bot-section {
-    padding: 3rem;
-    max-width: 1200px;
-    margin: 0 auto;
+
+
+.mid-section h3 {
     text-align: center;
+    font-size: 1.8rem;
+    color: #2a5298;
+    margin-top: auto;
+}
+/* Adding style for section heading underline - this creates a visual emphasis */
+.mid-section h3::after {
+    content: '';
+    display: block;
+    width: 4%;
+    height: 2px;
+    background: #1e3c72;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-img {
-    width: 50%;
+.mid-section img {
+    width: 70%;
+    max-width: 800px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.mid-section img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 article {
@@ -91,6 +110,18 @@ article:hover {
 article h2 {
     color: #1e3c72;
     margin-bottom: 1rem;
+}
+
+/*
+--------------------------
+Bottom section
+--------------------------- 
+*/
+.bot-section {
+    padding: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 /* Footer */
