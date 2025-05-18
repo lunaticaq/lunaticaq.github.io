@@ -107,7 +107,8 @@ article:hover {
     transform: translateY(-3px);
 }
 
-article h2 {
+article h2,
+.bot-section h1 {
     color: #1e3c72;
     margin-bottom: 1rem;
 }
