@@ -174,3 +174,8 @@ div.scroll-container::-webkit-scrollbar-track {
     padding: 2rem 1rem;
   }
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
